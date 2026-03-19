@@ -1,4 +1,4 @@
-name: Build and Release Managed Solution
+name: Build and Release Managed Solution.
 
 on:
   push:
